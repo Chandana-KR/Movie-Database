@@ -1,0 +1,8 @@
+.single-movie-container {
+  background-color: #000000;
+  min-height: 100vh;
+  margin-top: 0px;
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+}
